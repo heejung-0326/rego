@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rego/static/css/main.2867a5ab.css",
+    "main.js": "/rego/static/js/main.bf23f2b2.js",
+    "index.html": "/rego/index.html",
+    "main.2867a5ab.css.map": "/rego/static/css/main.2867a5ab.css.map",
+    "main.bf23f2b2.js.map": "/rego/static/js/main.bf23f2b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2867a5ab.css",
+    "static/js/main.bf23f2b2.js"
+  ]
+}
