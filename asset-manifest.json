@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rego/static/css/main.bae3c70d.css",
+    "main.js": "/rego/static/js/main.dbc64ef5.js",
+    "index.html": "/rego/index.html",
+    "main.bae3c70d.css.map": "/rego/static/css/main.bae3c70d.css.map",
+    "main.dbc64ef5.js.map": "/rego/static/js/main.dbc64ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae3c70d.css",
+    "static/js/main.dbc64ef5.js"
+  ]
+}
